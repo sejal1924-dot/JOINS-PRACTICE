@@ -10,7 +10,7 @@
 
 *DURATION*: 4WEEKS
 
-*MENTOR* NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 DESCRIPTION:  I practiced performing different types of joins to combine data meaningfully, such as INNER, LEFT, RIGHT, and FULL joins. I also explored advanced querying using window functions, subqueries, and Common Table Expressions (CTEs) to analyze trends and patterns in datasets.
 
